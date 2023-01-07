@@ -1,4 +1,4 @@
-![logo](https://github.com/Imjdansari/Imjdansari/blob/main/Javed%20Ansari.png)
+![logo](https://github.com/Imjdansari/Imjdansari/blob/main/Javed%20Ansari.jpeg)
 <h1 align="center">Hi 👋, I'm Javed Ansari 👨🏻‍💻</h1>
 <h3 align="center">I'm a Student, Programmer, and a WebDeveloper!!</h3>
 
