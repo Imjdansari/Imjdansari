@@ -1,4 +1,5 @@
-(file:///Users/imjdansari/Desktop/Screenshot%202024-08-21%20at%201.50.47%E2%80%AFAM.png))
+![logo]
+(file:///Users/imjdansari/Desktop/Screenshot%202024-08-21%20at%201.50.47%E2%80%AFAM.png)
 <h1 align="center">Hi 👋, I'm Javed Ansari 👨🏻‍💻</h1>
 <h3 align="center">I'm a Student, A enthusiastic Software Developer 🧑‍💻!!</h3>
 
