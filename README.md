@@ -1,6 +1,6 @@
 ![logo](https://github.com/Imjdansari/Imjdansari/blob/main/Javed%20Ansari.jpeg)
 <h1 align="center">Hi 👋, I'm Javed Ansari 👨🏻‍💻</h1>
-<h3 align="center">I'm a Student, Programmer, and a WebDeveloper!!</h3>
+<h3 align="center">I'm a Student, A enthusiastic Software Developer Engineer 🧑‍💻!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjdansari&label=Profile%20views&color=0e75b6&style=flat" alt="imjdansari" /> </p>
 
