@@ -12,11 +12,13 @@
 
 <br/>
 
-- 👨‍🎓 I am currently a final year bachelor of computer application student.
-- 🌱 I’m currently trying to explore and learn about web development.
-- 🤔 I’m looking for Internship in web development.
-- ⚡ Fun fact: Sleeping with a problem can actually solve it.
-- 📫 How to reach me : javedansari.bnj@gmail.com
+<div align="center"> 
+
+ 👨‍🎓 I am currently a final year bachelor of computer application student.
+ 🌱 I’m currently trying to explore and learn about web development.
+ 🤔 I’m looking for Internship in web development.
+ ⚡ Fun fact: Sleeping with a problem can actually solve it.
+ 📫 How to reach me : javedansari.bnj@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
