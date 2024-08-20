@@ -1,4 +1,4 @@
-![logo]([https://github.com/Imjdansari/Imjdansari/blob/main/Javed%20Ansari.jpeg](https://prodperfect.com/wp-content/uploads/2019/05/Blog-Images_1200x600_0008_Engineer-multiple-screens-01.jpg.jpg))
+![logo](file:///Users/imjdansari/Desktop/Screenshot%202024-08-21%20at%201.50.47%E2%80%AFAM.png))
 <h1 align="center">Hi 👋, I'm Javed Ansari 👨🏻‍💻</h1>
 <h3 align="center">I'm a Student, A enthusiastic Software Developer 🧑‍💻!!</h3>
 
