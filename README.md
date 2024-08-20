@@ -12,15 +12,13 @@
 
 <br/>
 
-<div align="center"> 
+ - 👨‍🎓 I am currently a final year bachelor of computer application student.
+ - 🌱 I’m currently trying to explore and learn about web development.
+ - 🤔 I’m looking for Internship in web development.
+ - ⚡ Fun fact: Sleeping with a problem can actually solve it.
+ - 📫 How to reach me : javedansari.bnj@gmail.com
 
- 👨‍🎓 I am currently a final year bachelor of computer application student.
- 🌱 I’m currently trying to explore and learn about web development.
- 🤔 I’m looking for Internship in web development.
- ⚡ Fun fact: Sleeping with a problem can actually solve it.
- 📫 How to reach me : javedansari.bnj@gmail.com
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/imjdansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjdansari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imjdansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imjdansari" height="30" width="40" /></a>
