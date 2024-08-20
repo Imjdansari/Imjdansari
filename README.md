@@ -10,6 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/imjdansari" target="blank"><img src="https://img.shields.io/twitter/follow/imjdansari?logo=twitter&style=for-the-badge" alt="imjdansari" /></a> </p>
 
+<br/>
+
+<div align="center">
+
 - 👨‍🎓 I am currently a final year bachelor of computer application student.
 - 🌱 I’m currently trying to explore and learn about web development.
 - 🤔 I’m looking for Internship in web development.
