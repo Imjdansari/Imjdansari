@@ -12,8 +12,6 @@
 
 <br/>
 
-<div align="center">
-
 - 👨‍🎓 I am currently a final year bachelor of computer application student.
 - 🌱 I’m currently trying to explore and learn about web development.
 - 🤔 I’m looking for Internship in web development.
