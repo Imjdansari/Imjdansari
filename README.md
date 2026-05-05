@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javed+Ansari!;" />
 </h1>
 
-<h3 align="center">I'm a Student, A enthusiastic Software Developer 🧑‍💻</h3>
+<h3 align="center">I'm a Student, A enthusiastic DevOps Engineer 🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjdansari&label=Profile%20views&color=0e75b6&style=flat" alt="imjdansari" /> </p>
 
@@ -13,7 +13,7 @@
 <br/>
 
  - 👨‍🎓 I am currently a final year bachelor of computer application student.
- - 🌱 I’m currently trying to explore and learn about web development.
+ - 🌱 I’m currently trying to explore and learn about DevOps Engineer.
  - 🤔 I’m looking for Internship in web development.
  - ⚡ Fun fact: Sleeping with a problem can actually solve it.
  - 📫 How to reach me : javedansari.bnj@gmail.com
