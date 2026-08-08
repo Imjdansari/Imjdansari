@@ -53,10 +53,13 @@ I also enjoy learning new technologies, building hands-on projects, and sharing 
 
 <div align="center">
 
+<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
+
 ## ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 🚀 DevOps & Infrastructure
 
