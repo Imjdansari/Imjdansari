@@ -1,6 +1,8 @@
-<div align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-# J A V E D  A N S A R I
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javed+Ansari!;" />
+</h1>
 
 ### **DevOps Engineer • Cloud Engineer • Automation**
 
